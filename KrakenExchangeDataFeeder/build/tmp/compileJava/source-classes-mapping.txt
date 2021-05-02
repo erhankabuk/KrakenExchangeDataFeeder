@@ -1,0 +1,9 @@
+com/erhankabuk/KrakenExchangeDataFeeder/Model/Root.java
+ com.erhankabuk.KrakenExchangeDataFeeder.Model.Root
+com/erhankabuk/KrakenExchangeDataFeeder/Model/Result.java
+ com.erhankabuk.KrakenExchangeDataFeeder.Model.Result
+com/erhankabuk/KrakenExchangeDataFeeder/KrakenExchangeDataFeederApplication.java
+ com.erhankabuk.KrakenExchangeDataFeeder.KrakenExchangeDataFeederApplication
+com/erhankabuk/KrakenExchangeDataFeeder/ServiceLayer.java
+ com.erhankabuk.KrakenExchangeDataFeeder.ServiceLayer
+ com.erhankabuk.KrakenExchangeDataFeeder.ServiceLayer$1
