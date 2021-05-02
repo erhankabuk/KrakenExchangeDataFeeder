@@ -76,7 +76,7 @@ public class ServiceLayer {
 
     public String getLastDateOfJSONFilesName(){
         try {
-            //Erase pathway before push...
+            //Check or change pathway before run...
             File dataFilesInPathName = new File("C:\\Users\\IdeaProjects\\KrakenExchangeDataFeeder");
             FilenameFilter filteredFileNames = new FilenameFilter() {
                 @Override
